@@ -1,6 +1,6 @@
 <h1><strong>Alexandra Adeeva</strong></h1>
 
-![My photo](/Users/aleksandraadeeva/Desktop/CV/img/MyPhoto.jpeg)
+![My photo](MyPhoto.jpeg)
 
 <h2><em><strong>About me</strong></em></h2>
 
