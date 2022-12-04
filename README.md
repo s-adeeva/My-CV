@@ -1,6 +1,6 @@
 <h1><strong>Alexandra Adeeva</strong></h1>
 
-![My photo](MyPhoto.jpeg)
+![My photo](![MyPhoto](https://user-images.githubusercontent.com/110856480/205501426-8b953912-a3a3-41e1-b5ca-14e6d6aa81d0.jpeg)
 
 <h2><em><strong>About me</strong></em></h2>
 
